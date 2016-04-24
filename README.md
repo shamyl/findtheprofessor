@@ -1,0 +1,2 @@
+# findtheprofessor
+Being a professor, I always have scheduling issues with my students. We schedule a time to meet and then a sudden meeting call makes it impossible to inform the student of my unavailability. The idea of this project is to create a small display for my office door that will display my current location, activities and schedule to students who visit my office in my absence.  The best feature will enable me to update my status to the display remotely. It will also allow the students to take a snap or record a video message for me.
